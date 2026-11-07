@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/outputs/*
+reports/*
+!reports/.gitkeep
+!data/raw/accidents_sample.csv
+*.sqlite
+*.db
+.vscode/

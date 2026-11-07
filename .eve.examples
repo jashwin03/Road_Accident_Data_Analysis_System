@@ -1,0 +1,5 @@
+# If you have a MySQL server running, use this (replace your_password):
+DATABASE_URL=mysql+pymysql://root:your_password@localhost:3306/road_accident_db
+
+# If you want to test quickly without MySQL, comment the above and uncomment this:
+# DATABASE_URL=sqlite:///road_accident.db
